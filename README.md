@@ -2,6 +2,7 @@
 
 This project performs exploratory data analysis (EDA) on website user data to uncover patterns, trends, and insights about user engagement across different channels and time periods. The goal is to understand user behavior, session activity, and engagement rates to provide actionable insights for website optimization.
 
+
 # Technologies Used
 
 Python
@@ -27,9 +28,7 @@ Converted numeric columns to proper types
 
 Created additional features (hour of the day)
 
-
-
-Data Analysis-
+## Data Analysis-
 
 Summarized session and user counts over time
 
@@ -37,9 +36,7 @@ Calculated engagement metrics per channel
 
 Explored session and engagement trends
 
-
-
-Data Visualization-
+## Data Visualization-
 
 Line plot of sessions and users over time
 
@@ -49,17 +46,13 @@ Boxplots for engagement rate distribution across channels
 
 Heatmap of traffic by hour and channel
 
-
-
-Insights and Findings-
+# Insights and Findings-
 
 Identified channels with the highest user engagement
 
 Determined peak traffic hours for better content scheduling
 
 Highlighted differences in engagement rates among channels
-
-
 
 
 # Conclusion
