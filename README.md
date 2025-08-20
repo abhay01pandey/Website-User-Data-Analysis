@@ -17,7 +17,7 @@ matplotlib & seaborn (data visualization)
 
 # Key Steps
 
-Data Cleaning-
+## Data Cleaning-
 
 Renamed columns for clarity
 
