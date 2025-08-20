@@ -1,3 +1,7 @@
+# Website User Data Analysis
+
+This project performs exploratory data analysis (EDA) on website user data to uncover patterns, trends, and insights about user engagement across different channels and time periods. The goal is to understand user behavior, session activity, and engagement rates to provide actionable insights for website optimization.
+
 # Technologies Used
 
 Python
@@ -13,7 +17,7 @@ matplotlib & seaborn (data visualization)
 
 # Key Steps
 
-1. Data Cleaning
+Data Cleaning-
 
 Renamed columns for clarity
 
@@ -25,7 +29,7 @@ Created additional features (hour of the day)
 
 
 
-2. Data Analysis
+Data Analysis-
 
 Summarized session and user counts over time
 
@@ -35,7 +39,7 @@ Explored session and engagement trends
 
 
 
-3. Data Visualization
+Data Visualization-
 
 Line plot of sessions and users over time
 
@@ -47,7 +51,7 @@ Heatmap of traffic by hour and channel
 
 
 
-4. Insights and Findings
+Insights and Findings-
 
 Identified channels with the highest user engagement
 
