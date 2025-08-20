@@ -1,6 +1,6 @@
 # Website User Data Analysis
 
-This project performs exploratory data analysis (EDA) on website user data to uncover patterns, trends, and insights about user engagement across different channels and time periods. The goal is to understand user behavior, session activity, and engagement rates to provide actionable insights for website optimization.
+This project performs exploratory data analysis (EDA) on website user data to uncover patterns, trends, and insights about user engagement across different channels and time periods. The goal is to understand user behavior, session activity and engagement rates to provide actionable insights for website optimization.
 
 
 # Technologies Used
